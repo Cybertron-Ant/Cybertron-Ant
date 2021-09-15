@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Cybertron-Ant
-- 👀 I’m interested in Python developments.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python projects.
+- 👋 Hi, I’m Antonio Fuller aka @Cybertron-Ant
+- 👀 I’m interested in JavaScript and PHP developments.
+
+- 💞️ I’m looking to collaborate on any project involving the above languages..
 - 📫 Email me at mediainformationofficer@gmail.com
 
 
